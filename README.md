@@ -8,10 +8,11 @@ Made for **[Accelerate](https://accelerate.hackclub.com/)**, a YSWS hosted by **
 
 ## Try it out!
 
-**Live at:** https://irtaza.xyz/Double-Slit-Experiment/
+**Live at:** https://irtaza.xyz/Wave-Interference-Simulator/
 
 ## Demo
-<img src="" alt="Wave Interference Demo" width="800" />
+
+[](https://github.com/user-attachments/assets/bbcb2056-a674-4608-8cf5-dd0a55213542)
 
 ## Features
 **Dual Source Control:** Independently adjust **position**, **phase**, and **amplitude** of two coherent light sources!
